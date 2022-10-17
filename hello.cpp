@@ -22,7 +22,7 @@ int main()
 	t  = 1;
 	while (t--)
 	{
-		cout << "Hello World" << endl;
+		cout << "HacktoberFest is Fun!" << endl;
 	}
 	return 0;
 }
